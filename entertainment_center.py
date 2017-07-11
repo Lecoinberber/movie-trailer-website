@@ -4,7 +4,7 @@ import fresh_tomatoes
 
 # Create instance of class Movie for each movie
 
-# "Usual Suspects" movie details
+# "Toy Story" movie details
 toy_story = media.Movie(
     "Toy Story",
     "A cowboy doll is profoundly threatened and jealous when a new spaceman "
@@ -15,7 +15,7 @@ toy_story = media.Movie(
     "http://www.imdb.com/title/tt0114709/?ref_=fn_al_tt_1"
     )
 
-# "Usual Suspects" movie details
+# "Dumb and Dumber" movie details
 dumb_and_dumber = media.Movie(
     "Dumb and Dumber",
     "The cross-country adventures of two good-hearted but incredibly stupid "
@@ -26,7 +26,7 @@ dumb_and_dumber = media.Movie(
     "http://www.imdb.com/title/tt0109686/?ref_=nv_sr_1"
     )
 
-# "Usual Suspects" movie details
+# "Star Wars" movie details
 star_wars_iv = media.Movie(
     "Star Wars: A New Hope",
     "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a "
@@ -39,7 +39,7 @@ star_wars_iv = media.Movie(
     "http://www.imdb.com/title/tt0076759/?ref_=nv_sr_4"
     )
 
-# "Usual Suspects" movie details
+# "Pulp Fiction" movie details
 pulp_fiction = media.Movie(
     "Pulp Fiction",
     "The lives of two mob hit men, a boxer, a gangster's wife, and a pair "
@@ -50,7 +50,7 @@ pulp_fiction = media.Movie(
     "http://www.imdb.com/title/tt0110912/?ref_=nv_sr_1"
     )
 
-# "Usual Suspects" movie details
+# "Fight Club" movie details
 fight_club = media.Movie(
     "Fight Club",
     "An insomniac office worker, looking for a way to change his life, "
@@ -62,7 +62,7 @@ fight_club = media.Movie(
     "http://www.imdb.com/title/tt0137523/?ref_=nv_sr_1"
     )
 
-# "Usual Suspects" movie details
+# "Forrest Gump" movie details
 forrest_gump = media.Movie(
     "Forrest Gump",
     "While not intelligent, Forrest Gump has accidentally been present at "
@@ -73,7 +73,7 @@ forrest_gump = media.Movie(
     "http://www.imdb.com/title/tt0109830/?ref_=nv_sr_1"
     )
 
-# "Usual Suspects" movie details
+# "Inception" movie details
 inception = media.Movie(
     "Inception",
     "A thief, who steals corporate secrets through use of dream-sharing "
